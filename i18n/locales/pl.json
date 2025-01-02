@@ -1,0 +1,104 @@
+{
+  "misc": {
+    "yes": "Tak",
+    "no": "Nie",
+    "none": "Brak",
+    "delete": "Usuń",
+    "edit": "Edytuj",
+    "back": "Wróć",
+    "open": "Otwórz",
+    "close": "Zamknij",
+    "save": "Zapisz"
+  },
+  "auth": {
+    "signOut": "Wyloguj się"
+  },
+  "admin": {
+    "menu": {
+      "buildingsManagement": "Zarządzanie budynkami",
+      "floorManagement": "Zarządzanie piętrami",
+      "apartmentManagement": "Zarządzanie mieszkaniami",
+      "filesManagement": "Zarządzanie plikami"
+    },
+    "buildingsManagement": {
+      "addBuilding": "Dodaj budynek",
+      "editing": "Edytujesz",
+
+      "form": {
+        "basicInformation": "Informacje podstawowe",
+        "technicalInformation": "Informacje techniczne",
+        "administrativeInformation": "Informacje administracyjne",
+        "usageInformation": "Informacje użytkowe",
+        "documentationAndFiles": "Dokumentacja i pliki",
+        "additionalInformation": "Informacje dodatkowe",
+        "buildingName": "Nazwa budynku",
+        "dateOfConstruction": "Data budowy",
+        "numberOfFloors": "Liczba pięter",
+        "buildingType": "Typ budynku",
+        "surface": "Powierzchnia całkowita (m2)",
+        "numberOfApartments": "Liczba mieszkań",
+        "numberOfElevators": "Liczba wind",
+        "utilitiesAvailable": "Media dostępne w budynku",
+        "heatingSystem": "System ogrzewania",
+        "buildingOwner": "Właściciel budynku",
+        "buildingAdministrator": "Administrator budynku",
+        "contactDetails": "Dane kontaktowe",
+        "parkingAvailability": "Dostępność parkingów",
+        "parkingAvailabilityData": {
+          "underground": "Podziemny",
+          "outside": "Zewnętrzny"
+        },
+        "numberOfParkingLots": "Liczba parkingów",
+        "numberOfParkingSpaces": "Liczba miejsc parkingowych",
+        "recreationArea": "Strefa rekreacyjna",
+        "accessibilityForPeopleWithDisabilities": "Dostępność dla osób niepełnosprawnych",
+        "buildingPlans": "Plany budynku",
+        "regulationsOfTheHousingCommunity": "Regulamin wspólnoty mieszkaniowej",
+        "photosOfTheBuilding": "Zdjęcia budynku",
+        "buildingHistory": "Historia budynku",
+        "energyCertificates": "Certyfikaty energetyczne",
+        "monitoringAndSecurity": "Monitoring i bezpieczeństwo"
+      }
+    },
+    "floorsManagement": {
+      "manageFloors": "Zarządzaj piętrami",
+      "floor": "Piętro",
+      "addingFloor": "Dodawanie piętra"
+    }
+  },
+  "form": {
+    "signIn": "Zaloguj",
+    "cancel": "Anuluj",
+    "fields": {
+      "name": "Nazwa",
+      "email": "Adres e-mail",
+      "password": "Hasło",
+      "phone": "Numer telefonu",
+      "address": "Adres",
+      "addressPlaceholder": "np. plac Defilad 1, 00-901 Warszawa"
+    },
+    "validation": {
+      "required": "To pole jest wymagane",
+      "email": "Adres e-mail jest nieprawidłowy",
+      "phone": "Numer telefonu jest nieprawidłowy",
+      "min": "Minimalna ilość znaków to: {value}",
+      "max": "Maksymalna ilość znaków to: {value}"
+    }
+  },
+  "datatable": {
+    "id": "ID",
+    "name": "Nazwa",
+    "address": "Adres",
+    "dateOfConstruction": "Rok budowy",
+    "numberOfFloors": "Liczba pięter",
+    "floor": "Piętro",
+    "numberOfApartments": "Liczba mieszkań",
+    "surface": "Powierzchnia całkowita (m2)",
+    "purpose": "Przeznacznie",
+    "elevatorAvailability": "Winda"
+  },
+  "datepicker": {
+    "selectMonth": "Wybierz miesiąc",
+    "selectYear": "Wybierz rok"
+  }
+}
